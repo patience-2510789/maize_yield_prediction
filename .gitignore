@@ -4,10 +4,6 @@ __pycache__/
 *.pkl
 .ipynb_checkpoints/
 
-# Data (too large for GitHub)
-data/raw/
-data/processed/
-
 # Environment
 .env
 venv/
